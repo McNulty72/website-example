@@ -5,6 +5,10 @@ body {
 }
 
 #my-button {
-  background-color: #8a7175;
-  font-size: large;
+  background-color: #d8a1aa;
+  font-size: larger;
+}
+
+#my-button:hover {
+  background-color: #8f5a63;
 }
